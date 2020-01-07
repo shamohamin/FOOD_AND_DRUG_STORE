@@ -1,0 +1,21 @@
+.wrapper {
+    box-shadow: 5px 5px 5px 5px #888888 ;
+    cursor : pointer 
+}
+
+.descriptiop-wrapper {
+    border: 20px solid black ;
+    box-shadow: 10px 10px 20px 20px #888888 ;
+}
+
+.button-wrapper {
+    box-shadow: 5px 10px 5px  #888888 ;
+    height: 20%;
+}
+
+.para {
+    text-align : "justify";
+    text-indent:'30px' ;
+    line-height:'2' ;
+    text-transform:"capitalize"
+}

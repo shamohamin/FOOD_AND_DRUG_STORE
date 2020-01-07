@@ -1,0 +1,20 @@
+.register-body{
+    background: url('../img/register-background.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat ;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+.form-body{
+    position : absolute;
+    top:6%;
+    left:10%;
+    right: 17%;
+    width: 80%;
+}
+
+.header-background{
+    background: #C0C0C0
+}

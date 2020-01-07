@@ -1,0 +1,24 @@
+.background-img {
+    background-image: url('../img/background3.jpg');
+    background-repeat: no-repeat ;
+    background-size: 100% 100%;
+    background-attachment: local;
+    width: 100%;
+    min-height: 60vh ;
+    position: relative;
+}
+
+@media only screen and (max-width : 500px) {
+    .background-img{
+        background-size: 100% 70% ;
+    }
+}
+
+.btn-pos {
+    position : relative ;
+    top:  30% ;
+    left: 42% ;
+    width: 20%;
+    color: coral;
+    background: rgba(100, 10, 10, 0.7);
+}

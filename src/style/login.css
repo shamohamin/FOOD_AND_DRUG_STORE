@@ -1,0 +1,30 @@
+.form-container {
+    padding: 14px ;
+    margin-top : 10px ;
+    position : relative ;
+    top : 50px ;
+    left: 25% ;
+    border: 1px #888888 ;
+    border-radius: 10px   ;
+    box-shadow: 10px 10px 10px 10px #888896 ;
+    width: 50%;
+}
+
+.form-style {
+    border-radius: 10px ;
+}
+
+.form-header {
+    margin : -14px ;
+    padding: 0px 0px 9px 0px ;
+    border-radius: 7px ;
+    background : linear-gradient(270deg,#01c2e1,#93e7f1);
+}
+
+.btn-form {
+    background : rgb(60, 161, 255) ;
+}
+
+button.btn-form:hover {
+    background: rgb(0, 190, 0) ;
+}
